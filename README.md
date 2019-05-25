@@ -1,4 +1,4 @@
-# How do an AI landscape looks like at the moment?
+# This is how AI attracts money, people and places
 
 Andrzej Wodecki
 
@@ -13,6 +13,10 @@ The goal of this project is to **identify the most interesting patterns in an Ar
 Thanks to a courtesy of index.co (a daughter company of The Next Web) team, I analyzed a dataset with **+3 000 records of companies describing themselves with "Artificial Intelligence" TAG**. This dataset included information on eg. markets, number of employees, country, headquarters, total investments, latest investment round type and amount.
 
 The dataset allows to answer many interesting questions about **the hottest technologies and markets, investment patterns and employment**. Moreover, it open doors to more advanced machine learning modeling, eg. predicting the investments potential or the most promising location for heaquarters.
+
+All the most important results are summarised in my article on medium.com avaliable here:
+http://bit.ly/2wlNtxq
+Happy reading :)
 
 ## Instructions
 
