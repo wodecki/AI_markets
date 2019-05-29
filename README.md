@@ -22,7 +22,7 @@ Happy reading :)
 
 All the computations are stored in a `jupyter notebook`. If you don't have it installed, please follow the instructions provided here: https://jupyter.org/install .
 
-Having `jupyter notebook`, you need only 3 python libraries installed: `numpy, pandas, wordcloud` and `folium`.
+Having `jupyter notebook`, you need only the followin non-standard libraries installed: `numpy, pandas, wordcloud` and `folium`.
 
 All can be easily installed using `pip install` command. Eg. to install `folium` type:
 
